@@ -1,0 +1,26 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.read-the-docs {
+    color: #888;
+}
+
+.navbar {
+    display: 'flex';
+    flex-direction: row;
+}
+
+form {
+    background-color: orange;
+    font-size: 3em;
+}
+
+form input {
+    width: 350px;
+    height: 50px;
+    font-size: 0.8em;
+}
